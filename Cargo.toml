@@ -1,0 +1,14 @@
+[package]
+name = "The_Cryptographic_Layer_of_Biometric_Authentication"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ark-bn254 = "0.4.0"
+ark-ec = "0.4.0"
+ark-ff = "0.4.0"
+ark-std = "0.4.0"
+hashbrown = "0.14"
+rayon = "1.8"
+ark-serialize = "0.4"
+rand = "0.8"
